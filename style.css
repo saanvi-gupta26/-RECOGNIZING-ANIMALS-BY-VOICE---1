@@ -1,0 +1,37 @@
+body{
+    font-family: 'Patrick Hand', cursive;
+    background-color:rgb(222, 169, 187);
+}
+.header{
+    font-family: 'Anton', sans-serif;
+    background-color: rgb(255, 0, 136);
+    color: ghostwhite;
+    letter-spacing: 2px;
+}
+.header p{
+    font-weight: bolder;
+    color: lavenderblush;
+    letter-spacing: 2px;
+}
+button{
+    margin-top: 15px;
+    width: 85px;
+    font-family: 'Lobster Two', cursive;
+    color: whitesmoke;
+    letter-spacing: 2.5px;
+    font-weight: bolder;
+
+}
+.footer{
+
+    line-height: 2;
+    font-size: medium;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px rgb(236, 135, 135);
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    margin-bottom:8px;
+    text-align: center;
+    background-color: rgb(255, 0, 212);
+}
